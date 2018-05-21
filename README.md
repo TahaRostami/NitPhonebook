@@ -7,8 +7,8 @@
 </p>
 
 
-[<p align="right">قسمت تحت وب</p>](https://github.com/aspnet/Home/releases/tag/1.1.0)
-[<p align="right">قسمت گوشی موبایل</p>](https://github.com/aspnet/Home/releases/tag/1.1.0)
+[<p align="right">قسمت تحت وب</p>](https://github.com/tataiee1375/NitPhonebook)
+[<p align="right">قسمت گوشی موبایل</p>](https://github.com/tataiee1375/NitPhonebook)
 
 ## <p align="right">پیش نیاز ها</p>
 
