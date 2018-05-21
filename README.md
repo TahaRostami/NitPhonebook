@@ -28,5 +28,3 @@
 
 <p align="right">برای مشاهده گزارشات می توانید از نسخه های 2007 به بعد نرم افزار مایکروسافت ورد استفاده کنید</p>
 
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
-
