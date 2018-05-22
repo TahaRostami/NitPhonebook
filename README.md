@@ -15,8 +15,9 @@
 
 <p align="right"> قرار دارد  Tutorials  آموزش های این نرم قسمت پروژه در پوشه </p>
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4)
 
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://github.com/tataiee1375/NitPhonebook/tree/master/Tutorials/Videos/Tutorial01.mp4)
 
 ## <p align="right">پیش نیاز ها</p>
 
