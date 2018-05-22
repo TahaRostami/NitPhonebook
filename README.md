@@ -43,5 +43,5 @@
 <p align="right">پوریا عسگریانپور</p>
 <p align="right">امیرحسین مجیدی</p>
 
-## <p align="right"> : توسعه دهنده نسخه دسکتاپ پروژه</p>
-## <p align="right"> طه رستمی</p>
+<p align="right"><strong> : توسعه دهنده نسخه دسکتاپ پروژه</strong></p>
+ <p align="right"> طه رستمی</p>
