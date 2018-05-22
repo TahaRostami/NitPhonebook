@@ -15,7 +15,7 @@
 
 <p align="right"> قرار دارد  Tutorials  آموزش های این قسمت پروژه در پوشه </p>
 
-[<p align="right">برای دانلود ویدیو آموزشی انجا کلیک کنید</p>](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4)
+[<p align="right">برای دانلود ویدیو آموزشی اینجا کلیک کنید</p>](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4)
 
 
 ## <p align="right">پیش نیاز ها</p>
