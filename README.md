@@ -18,7 +18,11 @@
 
 ## <p align="right">نصب نرم افزار</p>
 
-<p align="right"> فایل های مربوط به نصب نرم افزار نیز در هیمن صفحه قابل مشاهده است همچنین می توانید از لینک های زیر نیز برای دریافت فایل نصب استفاده کنید </p>
+<p align="right"> فایل های مربوط به نصب نرم افزار در هیمن صفحه قابل مشاهده است همچنین می توانید از لینک های زیر نیز برای دریافت فایل نصب استفاده کنید </p>
+
+[<p align="right">فایل نصب برای سیستم های 64 بیتی</p>](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/SetupFiles/setup_x64.exe)
+
+[<p align="right">فایل نصب برای سیستم های 32 بیتی</p>](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/SetupFiles/setup_x86.exe)
 
 ## <p align="right">آموزش ها</p>
 
