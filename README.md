@@ -3,7 +3,7 @@
 یک پروژه دانشگاهی است که برای درس های مهندسی اینترنت و مهندسی نرم افزار تولید شده است NitPhonebook پروژه 
 </p>
 <p align="right">
-این قسمت مربوط به نرم افزار تحت دسکتاپ این پروژه می باشد شما همچنین می توانید سایر بخش های این نرم افزار یعنی نسخه های تحت وب و گوشی آنرا از طریق لینک های زیر مشاهده نمایید نمایید
+این قسمت مربوط به نرم افزار دسکتاپ این پروژه می باشد شما همچنین می توانید سایر بخش های این نرم افزار یعنی نسخه های تحت وب و گوشی آنرا از طریق لینک های زیر مشاهده نمایید نمایید
 </p>
 
 
@@ -16,11 +16,6 @@
 <p align="right"> قرار دارد  Tutorials  آموزش های این قسمت پروژه در پوشه </p>
 
 [<p align="right">برای دانلود ویدیو آموزشی انجا کلیک کنید</p>](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4)
-
-<video width="400" controls>
-  <source src="https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
 
 
 ## <p align="right">پیش نیاز ها</p>
@@ -41,3 +36,12 @@
 
 <p align="right">برای مشاهده گزارشات می توانید از نسخه های 2007 به بعد نرم افزار مایکروسافت ورد استفاده کنید</p>
 
+## <p align="right"> : اعضا تیم</p>
+
+<p align="right">بهزاد پسرکلو</p>
+<p align="right">طه رستمی</p>
+<p align="right">پوریا عسگریانپور</p>
+<p align="right">امیرحسین مجیدی</p>
+
+## <p align="right"> : توسعه دهنده نسخه دسکتاپ پروژه</p>
+## <p align="right"> طه رستمی</p>
