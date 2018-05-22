@@ -7,8 +7,8 @@
 </p>
 
 
-[<p align="right">قسمت تحت وب</p>](https://github.com/tataiee1375/NitPhonebook)
-[<p align="right">قسمت گوشی موبایل</p>](https://github.com/tataiee1375/NitPhonebook)
+[<p align="right">قسمت تحت وب</p>](#)
+[<p align="right">قسمت گوشی موبایل</p>](#)
 
 ## <p align="right">: توضیحات مربوط به نسخه دسکتاپ</p>
 
@@ -45,8 +45,8 @@
 
 [<p align="right">بهزاد پسرکلو</p>](#)
 [<p align="right">طه رستمی</p>](https://github.com/tataiee1375)
-[<p align="right">پوریا عسگریانپور</p>](https://github.com/tataiee1375/NitPhonebook)
-[<p align="right">امیرحسن مجیدی</p>](https://github.com/tataiee1375/NitPhonebook)
+[<p align="right">پوریا عسگریانپور</p>](#)
+[<p align="right">امیرحسن مجیدی</p>](#)
 
 ## <p align="right">: توسعه دهنده نسخه دسکتاپ پروژه</p>
 
