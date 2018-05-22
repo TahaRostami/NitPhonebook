@@ -46,7 +46,7 @@
 [<p align="right">بهزاد پسرکلو</p>](#)
 [<p align="right">طه رستمی</p>](https://github.com/tataiee1375)
 [<p align="right">پوریا عسگریانپور</p>](#)
-[<p align="right">امیرحسن مجیدی</p>](#)
+[<p align="right">امیرحسن مجیدی</p>](https://github.com/amirhmajidi)
 
 ## <p align="right">: توسعه دهنده نسخه دسکتاپ پروژه</p>
 
