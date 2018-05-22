@@ -17,6 +17,10 @@
 
 [<p align="right">برای دانلود ویدیو آموزشی انجا کلیک کنید</p>](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4)
 
+<video width="400" controls>
+  <source src="https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
 
 
 ## <p align="right">پیش نیاز ها</p>
