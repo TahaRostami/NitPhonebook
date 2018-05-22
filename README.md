@@ -43,10 +43,11 @@
 
 ## <p align="right"> : اعضا تیم</p>
 
-[<p align="right">بهزاد پسرکلو</p>]
-[<p align="right">طه رستمی</p>]
-[<p align="right">پوریا عسگریانپور</p>]
-[<p align="right">امیرحسین مجیدی</p>]
+[<p align="right">بهزاد پسرکلو</p>](https://github.com/tataiee1375/NitPhonebook)
+[<p align="right">طه رستمی</p>](https://github.com/tataiee1375/NitPhonebook)
+[<p align="right">پوریا عسگریانپور</p>](https://github.com/tataiee1375/NitPhonebook)
+[<p align="right">امیرحسن مجیدی</p>](https://github.com/tataiee1375/NitPhonebook)
 
-<p align="right"><strong> : توسعه دهنده نسخه دسکتاپ پروژه</strong></p>
- [<p align="right"> طه رستمی</p>]
+## <p align="right">: توسعه دهنده نسخه دسکتاپ پروژه</p>
+
+[<p align="right">طه رستمی</p>](https://github.com/tataiee1375/NitPhonebook)
