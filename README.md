@@ -10,6 +10,9 @@
 [<p align="right">قسمت تحت وب</p>](https://github.com/tataiee1375/NitPhonebook)
 [<p align="right">قسمت گوشی موبایل</p>](https://github.com/tataiee1375/NitPhonebook)
 
+## <p align="right">: توضیحات مربوط به نسخه دسکتاپ</p>
+
+<p align="right">در حدود 12 روز و 120 ساعت نوشته شده است WPF  نسخه دسکتاپ این پروژه با زبان سی شارپ و با بهره گیری از دات نت فریمورک و تکنولوژی  </p>
 
 ## <p align="right">آموزش ها</p>
 
