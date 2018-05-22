@@ -10,6 +10,14 @@
 [<p align="right">قسمت تحت وب</p>](https://github.com/tataiee1375/NitPhonebook)
 [<p align="right">قسمت گوشی موبایل</p>](https://github.com/tataiee1375/NitPhonebook)
 
+
+## <p align="right">آموزش ها</p>
+
+<p align="right"> قرار دارد  Tutorials  آموزش های این نرم قسمت پروژه در پوشه </p>
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://raw.githubusercontent.com/tataiee1375/NitPhonebook/master/Tutorials/Videos/Tutorial01.mp4)
+
+
 ## <p align="right">پیش نیاز ها</p>
 
 <p align="right">: پیش نیاز های این نرم افزار شامل موارد زیر می باشد</p>
