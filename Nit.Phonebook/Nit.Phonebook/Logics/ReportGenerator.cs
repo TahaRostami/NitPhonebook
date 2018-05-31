@@ -17,7 +17,7 @@ namespace Nit.Phonebook.Logics
 {
     class ReportGenerator
     {
-        internal const string SampleDirectory = @"..\..\Reports\";
+        internal const string SampleDirectory = @"Reports\";
 
         const string TableSampleResourcesDirectory = SampleDirectory + @"Table\Resources\";
         const string TableSampleOutputDirectory = SampleDirectory + @"Output\";
