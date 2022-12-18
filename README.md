@@ -5,4 +5,4 @@
 
 ## What we did
 <p align="justify">
-In this project, we propose a recursive algorithm that can print the given data similar to the manual phone book of the BNUT. Also, we designed and implemented a relational database for adding, removing, updating, and fetching information related to the phone book. Afterwards, desktop, mobile, and web clients were designed and implemented.   </p>
+In this project, we propose a recursive algorithm that can print the given data similar to the manual phone book of the BNUT. Also, we designed and implemented a SQL server database for adding, removing, updating, and fetching information related to the phone book. Afterwards, desktop, mobile, and web clients were designed and implemented.   </p>
